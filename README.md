@@ -39,6 +39,4 @@ I regularly add solutions and practice new problems as I move forward in my DSA 
 - GitHub: [divya234-hue](https://github.com/divya234-hue)
 - LeetCode: [My Profile](https://leetcode.com/u/diviii03/)
 
----
-
 ⭐ This repository reflects my continuous learning and improvement in DSA.
