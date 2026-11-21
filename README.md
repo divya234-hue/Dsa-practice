@@ -1,5 +1,4 @@
 # 🧠 DSA Practice
-
 Welcome to my Data Structures and Algorithms practice repository
 
 This repository contains my solutions to DSA problems as I learn and improve my problem-solving skills.
